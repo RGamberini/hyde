@@ -7,11 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Bits Bytes and All the Other Stuff
+title:            Bits Bytes and More
 tagline:          'A Programming Blog'
 description:      'A desperate high school programmers attempt at a blog'
 url:              rgamberini.github.io
 baseurl:          /
+avatar:
+  image:          /images/profile.png
+  width:          285px
+  height:         285px
 
 author:
   name:           'Rudy Gamberini'
